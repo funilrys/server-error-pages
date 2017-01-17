@@ -24,6 +24,4 @@ Easy to use, professional error pages to replace the plaintext error pages that 
 
 
 -----
-
-Maintained by [funilrys](https://github.com/funilrys).
 Forked from *[alexphelp/server-error-pages](https://github.com/alexphelps/server-error-pages)*.
